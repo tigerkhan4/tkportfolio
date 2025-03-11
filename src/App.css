@@ -41,7 +41,9 @@ p {
     padding: 0;
 }
 
-h2,h3,p {
+h2,
+h3,
+p {
     font-family: "Gentium Plus", serif; 
 }
 
@@ -62,7 +64,7 @@ h1{
 }
 
 p{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 300;
 }
 
@@ -74,6 +76,8 @@ p{
     cursor: pointer;
 }
 
+
+  
 @media (width >= 800px) {
     #root {
         gap: 100px;
