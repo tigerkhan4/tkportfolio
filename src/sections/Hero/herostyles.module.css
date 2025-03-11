@@ -7,10 +7,7 @@
   text-align: center;
   height: 100dvh;
   min-height: 500px;
-  .hero {
-    border-radius: 50%; /* Makes it circular */
   
-  }
   
   span{
     display: flex;
@@ -104,3 +101,4 @@
     }
   }
 }
+

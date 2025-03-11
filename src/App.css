@@ -1,6 +1,6 @@
 :root {
-    --background-color: #ffffff;
-    --btn-color: #0987f2;
+    --background-color: #ebe5f4;
+    --btn-color: #3387d1;
     --btn-text-color: #fff;
     --project-card-bg: #ffffff00;
     --text-color: #222;
@@ -9,7 +9,7 @@
 }
 
 [data-theme='dark'] {
-    --background-color: #271b26;
+    --background-color: #2a1d29;
     --btn-color: #fff;
     --btn-text-color: #222;
     --project-card-bg: #fff;

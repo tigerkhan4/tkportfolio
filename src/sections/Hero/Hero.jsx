@@ -1,7 +1,7 @@
 import styles from './herostyles.module.css';
 import {useEffect, useState} from 'react';
 
-import heroImg from '../../assets/pixar-pic.png';
+import heroImg from '../../assets/hj.png';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
