@@ -22,27 +22,28 @@ function Projects() {
             <ProjectCard 
               className={`${styles.projectCard} popcampaigns`}
               src={popcampaigns} 
-              link={'https://itravelgpt.netlify.app/'}
+              link={'https://drive.google.com/drive/folders/1btbHAy7kgL1NmSzFQifbGsxmrTpBltdP?usp=sharing'}
               h3="Pillars of Peace"
               p= "nonprofit marketing campaigns"
             />
             <ProjectCard 
-              className={`${styles.projectCard} t's treats`}
-              src={ttreats} 
-              ink={'https://itravelgpt.netlify.app/'}
-              h3="in progress: t's treats"
-              p= "small business website"
-            />
-            <ProjectCard 
               className={`${styles.projectCard} poppresentations`}
               src={poppresentations} 
-              link={'https://itravelgpt.netlify.app/'}
+              link={'https://drive.google.com/drive/folders/16bFdz1FzcMNhgENeQ4UOaBqWTBHz4nbj?usp=sharing'}
               h3="Pillars of Peace"
               p= "community education presentations"
             />
+            <ProjectCard 
+              className={`${styles.projectCard} t's treats`}
+              src={ttreats} 
+              /*link={'https://itravelgpt.netlify.app/'}*/
+              h3="in progress: t's treats"
+              p= "small business website"
+            />
+            
         </div>
     </section>
   )
 }
 
-export default Projects
+export default Projects;
