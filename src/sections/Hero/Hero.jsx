@@ -35,7 +35,7 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1> Tamanna <br></br> Khan </h1>
-        <h2 className={styles.typewriter}>Project Manager </h2>  {/* Dynamically displaying the role */}
+        <h2 className={styles.typewriter}>Designing intuitive experiences to solve real problems </h2>  {/* Dynamically displaying the role */}
         <span>
           <a href="https://linkedin.com/in/tamannakhan1" target="_blank" rel="noopener noreferrer">
             <img src={linkedinIcon} alt="LinkedIn Icon" />
@@ -44,7 +44,8 @@ function Hero() {
             <img src={githubIcon} alt="Github Icon" />
           </a>
         </span>
-        <p className={styles.description}> bridging tech and impact—using project management, data, design, and creativity to create meaningful change.</p>
+        <p className={styles.description}> hi, i'm a UX/UI designer and project-minded problem solver with a background in data, web development, and social impact, passionate about making tech easier for the people who use it.
+</p>
         <a href={CV}>
           <button className="hover" download>
             resumé
