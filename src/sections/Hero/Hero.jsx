@@ -35,7 +35,7 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1> Tamanna <br></br> Khan </h1>
-        <h2 className={styles.typewriter}>bridging the gap between people and systems </h2>  {/* Dynamically displaying the role */}
+        <h2 className={styles.typewriter}>bridging the gap <br></br> between people and systems </h2>  {/* Dynamically displaying the role */}
         <span>
           <a href="https://linkedin.com/in/tamannakhan1" target="_blank" rel="noopener noreferrer">
             <img src={linkedinIcon} alt="LinkedIn Icon" />

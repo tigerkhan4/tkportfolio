@@ -6,6 +6,7 @@ import itravel from '../../assets/itravelfinal.png';
 import popcampaigns from '../../assets/pillarslogo.png';
 import poppresentations from '../../assets/gbv def.png';
 import ttreats from '../../assets/ttreats.png';
+import DP from '../../assets/designportfolio.pdf'
 
 function Projects() {
   return (
@@ -22,7 +23,7 @@ function Projects() {
             <ProjectCard 
               className={`${styles.projectCard} popcampaigns`}
               src={popcampaigns} 
-              link={'https://drive.google.com/drive/folders/1btbHAy7kgL1NmSzFQifbGsxmrTpBltdP?usp=sharing'}
+              link= {DP}
               h3="Pillars of Peace"
               p= "nonprofit marketing campaigns"
             />
