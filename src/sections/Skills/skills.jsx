@@ -71,6 +71,9 @@ function Skills() {
          <SkillList
         src={checkMarkIcon} 
         skill="SPSS"/>
+        <SkillList
+        src={checkMarkIcon} 
+        skill="Notion"/>
     </div>
     <hr style ={{ border: '1px solid #ccc', width: '80%' }}/>
     <div className={styles.skillList}>
