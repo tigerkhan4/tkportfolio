@@ -16,10 +16,11 @@ function Projects() {
             <ProjectCard                 
               className={`${styles.projectCard} itravel`} 
               src={itravel} 
-              link={'https://itravelgpt.netlify.app/'}
+              link={'https://itravelgpt.netlify.app/mtb'}
               h3="iTravel" 
               p= "task manager app w/ ai assistant"
             />
+            <br/>
             <ProjectCard 
               className={`${styles.projectCard} popcampaigns`}
               src={popcampaigns} 
@@ -27,6 +28,7 @@ function Projects() {
               h3="Pillars of Peace"
               p= "nonprofit marketing campaigns"
             />
+            <br/>
             <ProjectCard 
               className={`${styles.projectCard} poppresentations`}
               src={poppresentations} 
@@ -34,6 +36,7 @@ function Projects() {
               h3="Pillars of Peace"
               p= "community education presentations"
             />
+             <br/>
             <ProjectCard 
               className={`${styles.projectCard} t's treats`}
               src={ttreats} 

@@ -52,7 +52,7 @@ function Skills() {
         skill="Presentations"/>
         <SkillList
         src={checkMarkIcon} 
-        skill="Benefits Realization Management"/>
+        skill="Zendesk/Intercom"/>
     </div>
     <hr style ={{ border: '1px solid #ccc', width: '80%' }}/>
     <div className={styles.skillList}>
