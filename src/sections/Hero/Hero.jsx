@@ -44,7 +44,7 @@ function Hero() {
             <img src={githubIcon} alt="Github Icon" />
           </a>
         </span>
-        <p className={styles.description}> hi! i'm tamanna and i build intuitive, inclusive, and usable solutions for real people by listening closely, thinking strategically, and working across design, data, and web development
+        <p className={styles.description}> hi! i'm tamanna and i develop intuitive, inclusive, and usable solutions that put people first.
 </p>
         <a href={CV}>
           <button className="hover" download>
