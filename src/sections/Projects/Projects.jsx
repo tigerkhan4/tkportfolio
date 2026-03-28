@@ -16,7 +16,7 @@ function Projects() {
             <ProjectCard                 
               className={`${styles.projectCard} itravel`} 
               src={itravel} 
-              link={'https://itravelgpt.netlify.app/mtb'}
+              link={'https://itravelgpt.netlify.app/explore'}
               h3="iTravel" 
               p= "task manager app w/ ai assistant"
             />
